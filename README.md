@@ -47,3 +47,10 @@ A comprehensive bug tracking system that automates the process of tracking, mana
 - [ ] [Bug Tracking](https://github.com/rollymaduk/testing-private/issues/46)
 - [ ] [Bug Resolution](https://github.com/rollymaduk/testing-private/issues/47)
 - [ ] [Bug Management](https://github.com/rollymaduk/testing-private/issues/48)
+
+## Feature: Property Listing Feature
+This feature aims to provide a property listing functionality on a web application. It allows users to view and search properties along with their details.
+### Stories
+- [ ] [User Story 1: Property Search](https://github.com/rollymaduk/testing-private/issues/53)
+- [ ] [User Story 2: Property Listing Details](https://github.com/rollymaduk/testing-private/issues/54)
+- [ ] [User Story 3: Property Favoriting](https://github.com/rollymaduk/testing-private/issues/55)
