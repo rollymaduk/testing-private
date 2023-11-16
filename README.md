@@ -26,3 +26,15 @@ A comprehensive web-based system to track, manage, and resolve stupid bugs repor
 - [ ] [Bug resolution and verification](https://github.com/rollymaduk/testing-private/issues/31)
 - [ ] [Bug comments and discussion](https://github.com/rollymaduk/testing-private/issues/32)
 - [ ] [Bug reporting analytics](https://github.com/rollymaduk/testing-private/issues/33)
+
+## Feature: Automated Bug Tracking System
+A system to automate the process of tracking and managing software bugs.
+### Stories
+- [ ] [User Registration](https://github.com/rollymaduk/testing-private/issues/35)
+- [ ] [User Login](https://github.com/rollymaduk/testing-private/issues/36)
+- [ ] [Create Bug Report](https://github.com/rollymaduk/testing-private/issues/37)
+- [ ] [View Bug Details](https://github.com/rollymaduk/testing-private/issues/38)
+- [ ] [Assign Bug to Developer](https://github.com/rollymaduk/testing-private/issues/39)
+- [ ] [Resolve Bug Report](https://github.com/rollymaduk/testing-private/issues/40)
+- [ ] [Generate Bug Reports Summary](https://github.com/rollymaduk/testing-private/issues/41)
+- [ ] [Edit Bug Report](https://github.com/rollymaduk/testing-private/issues/42)
