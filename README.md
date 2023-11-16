@@ -38,3 +38,12 @@ A system to automate the process of tracking and managing software bugs.
 - [ ] [Resolve Bug Report](https://github.com/rollymaduk/testing-private/issues/40)
 - [ ] [Generate Bug Reports Summary](https://github.com/rollymaduk/testing-private/issues/41)
 - [ ] [Edit Bug Report](https://github.com/rollymaduk/testing-private/issues/42)
+
+## Feature: Automated Bug Tracking System
+A comprehensive bug tracking system that automates the process of tracking, managing, and resolving bugs found during software development.
+### Stories
+- [ ] [User Registration](https://github.com/rollymaduk/testing-private/issues/44)
+- [ ] [Bug Reporting](https://github.com/rollymaduk/testing-private/issues/45)
+- [ ] [Bug Tracking](https://github.com/rollymaduk/testing-private/issues/46)
+- [ ] [Bug Resolution](https://github.com/rollymaduk/testing-private/issues/47)
+- [ ] [Bug Management](https://github.com/rollymaduk/testing-private/issues/48)
