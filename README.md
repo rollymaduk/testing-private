@@ -54,3 +54,11 @@ This feature aims to provide a property listing functionality on a web applicati
 - [ ] [User Story 1: Property Search](https://github.com/rollymaduk/testing-private/issues/53)
 - [ ] [User Story 2: Property Listing Details](https://github.com/rollymaduk/testing-private/issues/54)
 - [ ] [User Story 3: Property Favoriting](https://github.com/rollymaduk/testing-private/issues/55)
+
+## Feature: web app to display,browse and manage art collections
+
+***Stories***
+- [ ] [User Story: Display Art Collections](https://api.github.com/repos/rollymaduk/testing-private/issues/62)
+- [ ] [User Story: Manage Art Collections](https://api.github.com/repos/rollymaduk/testing-private/issues/63)
+- [ ] [User Story: Browse Individual Artwork](https://api.github.com/repos/rollymaduk/testing-private/issues/64)
+
