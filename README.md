@@ -1,3 +1,15 @@
+## Feature: Art Collector's Immersive Experience
+Design an immersive, interactive website for an art collector. The site should display high-resolution images with animations and hover effects, enhancing the user engagement while maintaining fast load times.
+
+***Stories***
+- [ ] [Story: Homepage Animation](https://github.com/rollymaduk/testing-private/issues/95)
+- [ ] [Story: Artwork Hover Effects](https://github.com/rollymaduk/testing-private/issues/96)
+- [ ] [Story: High-Resolution Image Gallery](https://github.com/rollymaduk/testing-private/issues/97)
+- [ ] [Story: Interactive 3D Artwork Viewer](https://github.com/rollymaduk/testing-private/issues/98)
+
+
+
+
 ## Feature: Art Collector's Interactive Website Design
 This JSON object outlines the technical specifications for an interactive and immersive art collector website with advanced UI features such as animations, hover effects, and high-resolution image displays.
 
