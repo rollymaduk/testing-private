@@ -1,3 +1,16 @@
+## Feature: Art Collector's Interactive Website Design
+This JSON object outlines the technical specifications for an interactive and immersive art collector website with advanced UI features such as animations, hover effects, and high-resolution image displays.
+
+***Stories***
+- [ ] [Story 1: Home Page with Animation Effects](https://github.com/rollymaduk/testing-private/issues/88)
+- [ ] [Story 2: Artwork Hover Effects](https://github.com/rollymaduk/testing-private/issues/89)
+- [ ] [Story 3: High-Resolution Artwork Gallery](https://github.com/rollymaduk/testing-private/issues/90)
+- [ ] [Story 4: Responsive Image Layout](https://github.com/rollymaduk/testing-private/issues/91)
+- [ ] [Story 5: Artwork Details Page](https://github.com/rollymaduk/testing-private/issues/92)
+
+
+
+
 ## Feature: Specs Overview
 This JSON object represents the detailed specifications for an interactive and immersive art collector's website. It ensures a rich user experience with engaging animations, hover effects, and high-resolution image displays.
 
