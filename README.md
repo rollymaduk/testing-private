@@ -1,3 +1,11 @@
+## Feature: Interactive and immersive design for an art collector's website, featuring animations, hover effects, and large high-resolution images of the artworks
+
+***Stories***
+- [ ] [User Story: Gallery Browsing](https://github.com/rollymaduk/testing-private/issues/68)
+- [ ] [User Story: Interactive Art Discovery](https://github.com/rollymaduk/testing-private/issues/69)
+
+
+
 # testing-private
 for gitunion tests
 
