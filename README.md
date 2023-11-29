@@ -1,3 +1,16 @@
+## Feature: Automated Bug Tracking System
+Design and implement an automated system for tracking and managing software bugs that integrates a bounty program. The system should handle bug reporting, tracking of the bug resolution process, and payout of bounties set for resolving specific bugs. The payout currency is in USD, with a maximum of 200 USD set as a bounty for a single bug.
+
+***Stories***
+- [ ] [Story 1: Bug Reporting Mechanism](https://github.com/rollymaduk/testing-private/issues/103)
+- [ ] [Story 2: Bug Verification](https://github.com/rollymaduk/testing-private/issues/104)
+- [ ] [Story 3: Bounty Claim](https://github.com/rollymaduk/testing-private/issues/105)
+- [ ] [Story 4: Bounty Payment Processing](https://github.com/rollymaduk/testing-private/issues/106)
+- [ ] [Story 5: User Dashboard](https://github.com/rollymaduk/testing-private/issues/107)
+
+
+
+
 ## Feature: Art Collector's Immersive Experience
 Design an immersive, interactive website for an art collector. The site should display high-resolution images with animations and hover effects, enhancing the user engagement while maintaining fast load times.
 
