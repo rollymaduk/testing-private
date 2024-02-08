@@ -1,3 +1,16 @@
+## Feature: AI Video Conferencing Assistant
+An AI video conferencing agent that actively participates in meetings by taking notes, engaging in conversations with participants, and ultimately emailing the compiled meeting notes to all attendees after the meeting concludes.
+
+***Stories***
+- [ ] [Story 1: Note-Taking Functionality](https://github.com/rollymaduk/testing-private/issues/119)
+- [ ] [Story 2: Conversation Engagement](https://github.com/rollymaduk/testing-private/issues/120)
+- [ ] [Story 3: Emailing Meeting Notes](https://github.com/rollymaduk/testing-private/issues/121)
+- [ ] [Story 4: Meeting Analytics](https://github.com/rollymaduk/testing-private/issues/122)
+- [ ] [Story 5: In-Meeting Assistance](https://github.com/rollymaduk/testing-private/issues/123)
+
+
+
+
 ## Feature: AI Agent in Video Streaming App
 This AI is designed to enhance the user experience within a video streaming application through personalized recommendations, intelligent search, and interactive features.
 
