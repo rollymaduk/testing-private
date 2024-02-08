@@ -1,3 +1,16 @@
+## Feature: Off-grid Home Construction Plan
+This plan delineates the specifications for building a sustainable off-grid home, focusing on energy efficiency, water and waste management, and integration with the natural environment. Requirements cover structure design, renewable energy systems, water collection and purification, waste treatment, and smart resource management.
+
+***Stories***
+- [ ] [Story 1: Sustainable Structure Design](https://github.com/rollymaduk/testing-private/issues/126)
+- [ ] [Story 2: Renewable Energy Integration](https://github.com/rollymaduk/testing-private/issues/127)
+- [ ] [Story 3: Water Collection and Purification](https://github.com/rollymaduk/testing-private/issues/128)
+- [ ] [Story 4: Waste Treatment and Management](https://github.com/rollymaduk/testing-private/issues/129)
+- [ ] [Story 5: Smart Resource Management](https://github.com/rollymaduk/testing-private/issues/130)
+
+
+
+
 ## Feature: AI Video Conferencing Assistant
 An AI video conferencing agent that actively participates in meetings by taking notes, engaging in conversations with participants, and ultimately emailing the compiled meeting notes to all attendees after the meeting concludes.
 
