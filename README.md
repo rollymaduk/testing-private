@@ -1,3 +1,17 @@
+## Feature: AI Agent in Video Streaming App
+This AI is designed to enhance the user experience within a video streaming application through personalized recommendations, intelligent search, and interactive features.
+
+***Stories***
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/testing-private/issues/111)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/testing-private/issues/112)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/testing-private/issues/113)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/testing-private/issues/114)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/testing-private/issues/115)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/testing-private/issues/116)
+
+
+
+
 ## Feature: Automated Bug Tracking System
 Design and implement an automated system for tracking and managing software bugs that integrates a bounty program. The system should handle bug reporting, tracking of the bug resolution process, and payout of bounties set for resolving specific bugs. The payout currency is in USD, with a maximum of 200 USD set as a bounty for a single bug.
 
